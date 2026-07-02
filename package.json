@@ -8,7 +8,8 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "build": "tsc",
-    "demo": "ts-node src/demo.ts"
+    "demo": "ts-node src/demo.ts",
+    "demo:viterbi": "ts-node src/viterbi-demo.ts"
   },
   "keywords": [],
   "author": "",
